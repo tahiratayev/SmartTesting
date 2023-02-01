@@ -1,0 +1,25 @@
+{
+  "name": "demoblaze-test-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahiratayev/Smart_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahiratayev/Smart_Testing/issues"
+  },
+  "homepage": "https://github.com/tahiratayev/Smart_Testing#readme",
+  "devDependencies": {
+    "@testing-library/cypress": "^7.0.3",
+    "cypress": "^6.2.1",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}

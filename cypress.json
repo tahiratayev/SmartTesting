@@ -1,0 +1,21 @@
+{
+    "defaultCommandTimeout": 7000,
+    "pageLoadTimeout": 7000,
+
+    "reporter": "mochawesome",
+
+    "reporterOptions": {
+
+        "reporterDir": "cypress/report/mochawesome-report",
+        "owerrite": false,
+        "html": true,
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss"
+
+
+
+
+
+    }
+
+}
